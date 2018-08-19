@@ -1,0 +1,58 @@
+{
+	"details":{
+		"image":"propic.jpg",
+		"name":"Bhavya",
+		"phnno":"+91-9234919121",
+		"email":"thokalabhavya99@gmail.com",
+		"Address":"Vignan's Nirula college,Guntur."
+	},
+	"career":{
+		"infom":"To pursue a challenging career and be a passion"
+	},
+	"education":[
+		{
+			"qualification":"B-tech",
+			"institute":"Vignan Nirula college Guntur.",
+			"Year":"2016-2020",
+			"percentage":"80"
+
+		},
+	
+        {
+        	"qualification":"Intermediate",
+			"institute":"Sri chaitanya ",
+			"Year":"2014-2016",
+			"percentage":"96"
+
+
+        },
+        {
+        	"qualification":"SSC",
+			"institute":"Raghava concept school",
+			"Year":"2013-2014",
+			"percentage":"95"
+
+        }
+	],
+	"skill":[{
+		"title":"Programing languages",
+		"info":["C","C++","JAVA","R"]
+	},
+	   {
+	   	"title":"Databases",
+	   	"info":["sql","mysql","oracle"]
+	   },
+	   {
+	   	"title":"operating systems",
+	   	"info":["unix","linux","windows","mac"]
+	   }
+	
+   ],
+	"acheivements":[{
+		"a":"Got Second prize in ppt at srujankura in 2017"
+	},
+	{
+		"a":"Runner in Query Cracking at Nirulostav in 2018"
+	}
+	]
+}	

@@ -1,0 +1,184 @@
+.main{
+	border: 2px solid red;
+	padding: 2%;
+	margin: 2%;
+}
+.main{
+	display: flex;
+	flex-direction: row;
+
+}
+.left{
+	border: 2px solid blue;
+	padding: 2%;
+	margin: 2%;
+	border-radius: 10%;
+	text-align: center;
+	width: 30%;
+}
+.right{
+	width: 60%;
+	border-radius: 10%;
+	
+}
+.left img{
+	width: 30%;
+	border-radius: 50%;
+	border:5px solid pink;
+	box-shadow: 12px 20px 18px black;
+}
+.right{
+	border:2px solid blue;
+	padding: 2%;
+	margin: 2%;
+
+}
+#rollno{
+	color:red;
+}
+@media only screen and (min-width: 320px) and (max-width: 480px){
+.main{
+	border: 2px solid red;
+	padding: 2%;
+	margin: 2%;
+}
+.main{
+	display: flex;
+	flex-direction: column;
+
+}
+.left{
+	border: 2px solid blue;
+	padding: 2%;
+	margin: 2%;
+	border-radius: 10%;
+	text-align: center;
+	width: 50%;
+	background-color: skyblue;
+}
+.right{
+	width: 50%;
+	border-radius: 10%;
+	background-color: skyblue;
+}
+.left img{
+	width: 30%;
+	border-radius: 50%;
+	border:5px solid pink;
+	box-shadow: 12px 20px 18px black;
+}
+.right{
+	border:2px solid blue;
+	padding: 2%;
+	margin: 2%;
+
+}
+#rollno{
+	color:red;
+}
+a{
+	word-wrap: break-word;
+}
+.table1{
+	width: 90%;
+	overflow-x: auto;
+}
+}
+@media only screen and (min-width: 481px) and (max-width: 768px){
+.main{
+	border: 2px solid red;
+	padding: 2%;
+	margin: 2%;
+}
+.main{
+	display: flex;
+	flex-direction: row;
+
+}
+.left{
+	border: 2px solid blue;
+	padding: 2%;
+	margin: 2%;
+	border-radius: 10%;`
+	text-align: center;
+	width: 50%;
+	background-color: green;
+}
+.right{
+	width: 50%;
+	border-radius: 10%;
+	background-color: green;
+}
+.left img{
+	width: 30%;
+	border-radius: 50%;
+	border:5px solid pink;
+	box-shadow: 12px 20px 18px black;
+}
+.right{
+	border:2px solid blue;
+	padding: 2%;
+	margin: 2%;
+
+}
+#rollno{
+	color:red;
+}
+a{
+	word-wrap: break-word;
+}
+.table1{
+	width: 90%;
+	overflow-x: auto;
+}
+}
+@media only screen and (min-width: 769px) and (max-width: 1024px){
+.main{
+	border: 2px solid red;
+	padding: 2%;
+	margin: 2%;
+}
+.main{
+	display: flex;
+	flex-direction: row;
+
+}
+.left{
+	border: 2px solid blue;
+	padding: 2%;
+	margin: 2%;
+	border-radius: 10%;
+	text-align: left;
+	width: 40%;
+	background-color: orange;
+}
+.right{
+	width: 40%;
+	border-radius: 10%;
+	background-color: orange;
+}
+.left img{
+	width: 30%;
+	border-radius: 50%;
+	border:5px solid pink;
+	box-shadow: 12px 20px 18px black;
+}
+.right{
+	border:2px solid blue;
+	padding: 2%;
+	margin: 2%;
+
+}
+#rollno{
+	color:red;
+}
+a{
+	word-wrap: break-word;
+}
+.table1{
+	width: 90%;
+	overflow-x: auto;
+}
+}
+
+
